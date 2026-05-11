@@ -1,3 +1,5 @@
 dataset/
 __pycache__/
 .venv/
+checkpoints/
+back_up_embed/
